@@ -1,12 +1,12 @@
 ## Teste Target Sistemas
 
-Os exrecícios do teste foram desenvolvido na linguagem Python.
+Os exrecícios do teste, foram desenvolvidos na linguagem Python.
 
 ### Caixa de seleção 
-- [x] Aula 1
-- [x] Aula 2
-- [x] Aula 3
-- [x] Aula 4
-- [x] Aula 5
+- [x] ex 1
+- [x] ex 2
+- [x] ex 3
+- [x] ex 4
+- [x] ex 5
 
 
