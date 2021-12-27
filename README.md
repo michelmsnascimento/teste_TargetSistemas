@@ -2,7 +2,7 @@
 
 Os exrecícios do teste, foram desenvolvidos na linguagem Python.
 
-### Caixa de seleção 
+### Exercícios
 - [x] ex 1
 - [x] ex 2
 - [x] ex 3
